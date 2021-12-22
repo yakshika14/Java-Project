@@ -48,3 +48,9 @@ public class BodyMassApplet extends Applet implements ActionListener
 	}
 
 }
+#HTML FILE
+
+<HTML> 
+<APPLET CODE = "BodyMassApplet.class" WIDTH = 375 HEIGHT = 200> 
+</APPLET>
+</HTML>
